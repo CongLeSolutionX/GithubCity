@@ -9,7 +9,11 @@
 
 ### What would Your city look like?
 
-<p><a href="https://honzaap.github.io/GithubCity/">Create</a> a 3D city from your GitHub contributions 🏙</p>
+I am building my imaginary city using my contributions on GitHub repo projects.
+
+The work is under-contruction.
+
+This project is inspired by this repo: https://github.com/honzaap/GithubCity.
 
 ### About
 
